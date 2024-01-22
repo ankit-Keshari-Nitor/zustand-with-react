@@ -9,10 +9,10 @@ Zustand is a fast and scalable state management solution built by the developers
 ## Project
 In this project, I have implement following feature:
 
->> Counter App to get the count, increase and decrease count on button count
->> Vote App to get the no. of votes, increase, decrease vote on button count and Fetch Votes list asynchronously on button click 
->> Pokemon App to fetch pokemon list asynchronously on Component Mount
->> Fruit App for Storing, Accessing and Persisting arrays in the state
+* Counter App to get the count, increase and decrease count on button count
+* Vote App to get the no. of votes, increase, decrease vote on button count and Fetch Votes list asynchronously on button click 
+* Pokemon App to fetch pokemon list asynchronously on Component Mount
+* Fruit App for Storing, Accessing and Persisting arrays in the state
 
 ### `npm start`
 
